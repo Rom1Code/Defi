@@ -43,6 +43,8 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4"
+  },
   "license": "ISC"
 }
